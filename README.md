@@ -105,6 +105,13 @@ We implemented the model using **Qiskit 2.0** to harness the potential of **nois
 
 ---
 
+## 🖥️ Project Presentation
+
+For a detailed explanation of our approach, workflow, and results, check out our presentation:  
+[📑 View Presentation](presentation/presentation.pdf)
+
+---
+
 ## Acknowledgements  
 
 * Special thanks to **IBM Quantum** and **Freeya Mind Campus** for the *Road to Practitioner* program
