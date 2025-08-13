@@ -1,0 +1,29 @@
+{
+    "timestamp": "2025-07-17 22:00:24",
+    "qubit_count": 4,
+    "shot_count": 1024,
+    "class_labels": [
+        "healthy",
+        "diseased"
+    ],
+    "heart_data_path": "heartdata.csv",
+    "test_size": 0.3,
+    "random_state": 42,
+    "optimizer": "COBYLA",
+    "optimizer_iterations": 2,
+    "cma_popsize": null,
+    "use_real_backend": false,
+    "backend": "aer_simulator_from(ibm_aachen)",
+    "region": "eu-de",
+    "test_iterations": 3,
+    "mean_accuracy": 0.2462,
+    "std_deviation": 0.0131,
+    "confidence_interval": [
+        0.2136,
+        0.2788
+    ],
+    "cost_list": [
+        0.7933272076870997,
+        0.7529941583440308
+    ]
+}
