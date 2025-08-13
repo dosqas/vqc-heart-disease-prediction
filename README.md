@@ -52,13 +52,13 @@ We implemented the model using **Qiskit 2.0** to harness the potential of **nois
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/dosqas/r2p-quantum-capstone-project.git
+   git clone https://github.com/dosqas/vqc-heart-disease-prediction.git
    ```
 
 2. Navigate into the folder:
 
    ```bash
-   cd r2p-quantum-capstone-project
+   cd vqc-heart-disease-prediction
    ```
 
 ---
@@ -71,7 +71,7 @@ We implemented the model using **Qiskit 2.0** to harness the potential of **nois
    jupyter notebook
    ```
 
-2. Run through `heart-disease-vqc.ipynb` to train and evaluate the quantum classifier.
+2. Run through `heart-disease-vqc.ipynb` in the `notebook` folder to train and evaluate the quantum classifier.
 
 ---
 
